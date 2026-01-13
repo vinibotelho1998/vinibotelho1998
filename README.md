@@ -127,7 +127,7 @@
 
 <div align="center">
   <a href="https://github.com/vinibotelho1998">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinibotelho1998&theme=dracula&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinibotelho1998&bg_color=0d1117&color=00A1E0&line=00A1E0&point=FFFFFF&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%"/>
   </a>
 </div>
 
