@@ -145,6 +145,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1E0&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center">
-  <sub>📫 <strong>Vamos conectar!</strong> <a href="https://www.linkedin.com/in/viniciusdb8/">LinkedIn</a> • Troque conhecimentos sobre Integração, MuleSoft & Tech comigo!</sub>
-</p>
+
