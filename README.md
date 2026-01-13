@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/viniciusdb8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Vamos_Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -112,7 +112,13 @@
 <br />
 
 <div align="center">
-  <b>🛠️ Metodologias:</b> API Design (RAML) • Git Flow • MUnit • Scrum • Clean Code
+  <b>🛠️ Metodologias</b>
+  <br />
+  <img src="https://img.shields.io/badge/API_Design_(RAML)-00A1E0?style=flat-square&logo=raml&logoColor=white" alt="API Design" />
+  <img src="https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Flow" />
+  <img src="https://img.shields.io/badge/MUnit_Testing-00a1df?style=flat-square&logo=mulesoft&logoColor=white" alt="MUnit" />
+  <img src="https://img.shields.io/badge/Scrum-318CE7?style=flat-square&logo=jira&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Clean_Code-000000?style=flat-square&logo=sonarqube&logoColor=white" alt="Clean Code" />
 </div>
 
 ---
@@ -121,7 +127,7 @@
 
 <div align="center">
   <a href="https://github.com/vinibotelho1998">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinibotelho1998&theme=dracula&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinibotelho1998&bg_color=0d1117&color=00A1E0&line=00A1E0&point=FFFFFF&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%"/>
   </a>
 </div>
 
