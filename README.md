@@ -22,7 +22,7 @@
 >
 > Especialista em **Anypoint Platform**, DataWeave, **mTLS 2.0** e **OAuth 2.0**.
 >
-> Desenvolvo soluções de alta performance para **Ecossistemas Financeiros** e **Governamentais**, garantindo segurança e escalabilidade em operações críticas.
+> Desenvolvo soluções de alta performance para **Ecossistemas Financeiros** e **Governamentais**, garantindo segurança e escalabilidade.
 
 </div>
 
@@ -42,7 +42,7 @@
         <br /><sub><b>Salesforce</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="./GitHub.svg" width="85" height="85" alt="GitHub" />
+        <img src="./GitHub.svg?v=2" width="85" height="85" alt="GitHub" />
         <br /><sub><b>GitHub</b></sub>
       </td>
       <td align="center" width="120">
@@ -133,7 +133,7 @@
 
 | 🏦 **Fintech & Bancos** | 🏛️ **Gov & Setor Público** | 🔗 **Arquitetura Enterprise** |
 |:---:|:---:|:---:|
-| Itaú (Core Banking) | Detran PR/PE (Integrações) | API-Led Connectivity |
+| Itaú | Detran PR/PE (Integrações) | API-Led Connectivity |
 | Processamento de Pagamentos | Arrecadação de Tributos | Alta Disponibilidade & Resiliência |
 | Gestão de Certificados Digitais | Consultas Veiculares | Segurança (mTLS/OAuth2) |
 
