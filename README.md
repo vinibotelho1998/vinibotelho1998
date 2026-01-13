@@ -36,7 +36,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" alt="Monday.com" />
+  <!-- Fixed Monday icon slug to 'monday' and Slack logic -->
+  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white" alt="Monday.com" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </div>
@@ -46,9 +47,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
+  <!-- GitHub Streak Stats (Alternative Provider - Demolab) -->
   <a href="https://github.com/vinibotelho1998">
-    <img src="https://github-readme-stats.vercel.app/api?username=vinibotelho1998&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165"/>
+    <img src="https://streak-stats.demolab.com?user=vinibotelho1998&theme=dracula&locale=pt_BR&hide_border=true" alt="GitHub Streak" height="165"/>
   </a>
+  
+  <!-- Top Langs (Original Vercel - May be unstable temporarily) -->
   <a href="https://github.com/vinibotelho1998">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibotelho1998&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" height="165"/>
   </a>
