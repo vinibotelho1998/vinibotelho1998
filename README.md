@@ -47,10 +47,10 @@
 
 <div align="left">
   <a href="https://github.com/vinibotelho1998">
-    <img src="https://github-readme-stats.vercel.app/api?username=vinibotelho1998&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vinibotelho1998&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165"/>
   </a>
   <a href="https://github.com/vinibotelho1998">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibotelho1998&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&locale=pt-br&exclude_repo=b23-sistema-liquidacoes-api,bankItau" alt="Linguagens Mais Usadas" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibotelho1998&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" height="165"/>
   </a>
 </div>
 
