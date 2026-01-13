@@ -134,7 +134,7 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinibotelho1998/vinibotelho1998/output/github-contribution-grid-snake-dark.svg?v=6" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vinibotelho1998/vinibotelho1998/output/github-contribution-grid-snake-dark.svg?v=8" alt="Snake animation" width="100%"/>
 </div>
 
 ---
