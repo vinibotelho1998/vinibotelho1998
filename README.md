@@ -20,9 +20,9 @@
 
 > **🎯 MuleSoft Developer & Backend Engineer | B23 Parcelamentos**
 >
-> Especialista em **Anypoint Platform**, DataWeave, **mTLS 2.0** e **OAuth 2.0**
+> Especialista em **Anypoint Platform**, DataWeave, **mTLS 2.0** e **OAuth 2.0**.
 >
-> Conecto ecossistemas governamentais e bancários (**Detrans, Itaú**) para viabilizar operações financeiras
+> Desenvolvo soluções de alta performance para **Ecossistemas Financeiros** e **Governamentais**, garantindo segurança e escalabilidade em operações críticas.
 
 </div>
 
@@ -42,20 +42,6 @@
         <br /><sub><b>Salesforce</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="./nodejs-icon.svg" width="85" height="85" alt="Node.js" />
-        <br /><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="./python-svgrepo-com.svg" width="85" height="85" alt="Python" />
-        <br /><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="./MongoDB.svg" width="85" height="85" alt="MongoDB" />
-        <br /><sub><b>MongoDB</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
         <img src="./GitHub.svg" width="85" height="85" alt="GitHub" />
         <br /><sub><b>GitHub</b></sub>
       </td>
@@ -63,6 +49,8 @@
         <img src="./Postman.svg" width="85" height="85" alt="Postman" />
         <br /><sub><b>Postman</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <img src="./monday-icon-svgrepo-com.svg" width="85" height="85" alt="Monday" />
         <br /><sub><b>Monday</b></sub>
@@ -74,6 +62,28 @@
       <td align="center" width="120">
         <img src="./Notion-logo.svg" width="85" height="85" alt="Notion" />
         <br /><sub><b>Notion</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="./nodejs-icon.svg" width="85" height="85" alt="Node.js" />
+        <br /><sub><b>Node.js</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="./python-svgrepo-com.svg" width="85" height="85" alt="Python" />
+        <br /><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="./MongoDB.svg" width="85" height="85" alt="MongoDB" />
+        <br /><sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="./dartlang-icon.svg" width="85" height="85" alt="Dart" />
+        <br /><sub><b>Dart</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="./Flutter_logo.svg" width="85" height="85" alt="Flutter" />
+        <br /><sub><b>Flutter</b></sub>
       </td>
     </tr>
   </table>
@@ -111,15 +121,15 @@
 
 ---
 
-## 💼 Áreas de Atuação
+## 💼 Experiência & Domínios
 
 <div align="center">
 
-| 🏦 **Fintech & Bancos** | 🏛️ **Gov & Órgãos Públicos** | 🔗 **Integração Enterprise** |
+| 🏦 **Fintech & Bancos** | 🏛️ **Gov & Setor Público** | 🔗 **Arquitetura Enterprise** |
 |:---:|:---:|:---:|
-| Itaú | Detrans Estaduais | APIs REST |
-| Pagamentos & Liquidações | Arrecadações | MuleSoft Anypoint |
-| Boletos & Consultas | Consultas Veiculares | API-Led Connectivity |
+| Itaú (Core Banking) | Detran PR/PE (Integrações) | API-Led Connectivity |
+| Processamento de Pagamentos | Arrecadação de Tributos | Alta Disponibilidade & Resiliência |
+| Gestão de Certificados Digitais | Consultas Veiculares | Segurança (mTLS/OAuth2) |
 
 </div>
 
