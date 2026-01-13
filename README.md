@@ -109,6 +109,12 @@
   <img src="https://img.shields.io/badge/API_Security-1A73E8?style=for-the-badge&logo=springsecurity&logoColor=white" alt="API Security" />
 </div>
 
+<br />
+
+<div align="center">
+  <b>🛠️ Metodologias:</b> API Design (RAML) • Git Flow • MUnit • Scrum • Clean Code
+</div>
+
 ---
 
 ## 📊 Atividade no GitHub
