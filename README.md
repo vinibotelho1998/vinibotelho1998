@@ -1,65 +1,134 @@
-# Vinicius Botelho
-
-<br />
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&width=500&lines=MuleSoft+Developer;Salesforce+Ecosystem;Gov+%26+Fintech+Integrations;Backend+Engineering" alt="Typing SVG" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1E0&height=120&section=header&text=MuleSoft%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-> **MuleSoft Developer & Backend Engineer | B23 Parcelamentos**
->
-> Atuando no desenvolvimento de integrações para **consultas e parcelamentos**. Conecto ecossistemas governamentais e bancários (**DETRANs, Itaú, Banco do Brasil**) para viabilizar operações financeiras e arrecadações.
->
-> Especialista em **Anypoint Platform** e DataWeave, transformando requisitos de negócio em fluxos de integração eficientes, com foco em escalabilidade e segurança.
-
----
-
-### 🚀 Stack Tecnológica & Competências
-
-#### 💠 Integração & Ecosystem
-<div align="left">
-  <img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" alt="MuleSoft" />
-  <img src="https://img.shields.io/badge/Anypoint_Studio-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" alt="Anypoint Studio" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/DataWeave_2.0-FFA500?style=for-the-badge&logo=mulesoft&logoColor=white" alt="DataWeave" />
-  <img src="https://img.shields.io/badge/Mule_XML-FFA500?style=for-the-badge&logo=xml&logoColor=white" alt="Mule XML" />
-</div>
-
-#### 🛠️ Backend, Scripting & Dados
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
-
-#### 🗄️ Ferramentas & Organização
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <!-- Fixed Monday icon slug to 'monday' and Slack logic -->
-  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white" alt="Monday.com" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00A1E0&center=true&vCenter=true&width=500&lines=Salesforce+Ecosystem+%E2%98%81%EF%B8%8F;Gov+%26+Fintech+Integrations+%F0%9F%8F%A6;API-Led+Connectivity+%F0%9F%94%97;Backend+Engineering+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br />
 
-### 📊 Estatísticas do GitHub
-
-<div align="left">
-  <!-- GitHub Streak Stats (Alternative Provider - Demolab) -->
-  <a href="https://github.com/vinibotelho1998">
-    <img src="https://streak-stats.demolab.com?user=vinibotelho1998&theme=dracula&locale=pt_BR&hide_border=true" alt="GitHub Streak" height="165"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/viniciusdb8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <!-- Top Langs (Original Vercel - May be unstable temporarily) -->
+</div>
+
+<br />
+
+<div align="center">
+
+> **🎯 MuleSoft Developer & Backend Engineer | B23 Parcelamentos**
+>
+> Especialista em **Anypoint Platform**, DataWeave, **mTLS 2.0** e **OAuth 2.0**
+>
+> Conecto ecossistemas governamentais e bancários (**Detrans, Itaú**) para viabilizar operações financeiras
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="./mulesoft-icon.svg" width="65" height="65" alt="MuleSoft" />
+        <br /><sub><b>MuleSoft</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./Salesforce.svg" width="65" height="65" alt="Salesforce" />
+        <br /><sub><b>Salesforce</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./nodejs-icon.svg" width="65" height="65" alt="Node.js" />
+        <br /><sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./python-svgrepo-com.svg" width="65" height="65" alt="Python" />
+        <br /><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./MongoDB.svg" width="65" height="65" alt="MongoDB" />
+        <br /><sub><b>MongoDB</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="./GitHub.svg" width="65" height="65" alt="GitHub" />
+        <br /><sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./Postman.svg" width="65" height="65" alt="Postman" />
+        <br /><sub><b>Postman</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./monday-icon-svgrepo-com.svg" width="65" height="65" alt="Monday" />
+        <br /><sub><b>Monday</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./slack-icon-svgrepo-com.svg" width="65" height="65" alt="Slack" />
+        <br /><sub><b>Slack</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="./Notion-logo.svg" width="65" height="65" alt="Notion" />
+        <br /><sub><b>Notion</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔐 Especialidades
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Anypoint_Platform-00A1DF?style=for-the-badge&logoColor=white" alt="Anypoint Platform" />
+  <img src="https://img.shields.io/badge/DataWeave_2.0-FF6D00?style=for-the-badge&logoColor=white" alt="DataWeave" />
+  <img src="https://img.shields.io/badge/API_Gateway-7952B3?style=for-the-badge&logoColor=white" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/API--Led_Connectivity-00A1DF?style=for-the-badge&logoColor=white" alt="API-Led" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/mTLS_2.0-2E7D32?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="mTLS 2.0" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/API_Security-1A73E8?style=for-the-badge&logo=springsecurity&logoColor=white" alt="API Security" />
+</div>
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
   <a href="https://github.com/vinibotelho1998">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibotelho1998&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" height="165"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinibotelho1998&theme=dracula&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%"/>
   </a>
 </div>
 
 ---
 
-<p align="left">
-  <sub>📫 <strong>Contato:</strong> <a href="https://www.linkedin.com/in/viniciusdb8/">LinkedIn</a> | Conecte-se comigo para networking e troca de conhecimentos sobre Integração & Tech.</sub>
+## 💼 Áreas de Atuação
+
+<div align="center">
+
+| 🏦 **Fintech & Bancos** | 🏛️ **Gov & Órgãos Públicos** | 🔗 **Integração Enterprise** |
+|:---:|:---:|:---:|
+| Itaú | Detrans Estaduais | APIs REST |
+| Pagamentos & Liquidações | Arrecadações | MuleSoft Anypoint |
+| Boletos & Consultas | Consultas Veiculares | API-Led Connectivity |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1E0&height=100&section=footer" width="100%"/>
+</div>
+
+<p align="center">
+  <sub>📫 <strong>Vamos conectar!</strong> <a href="https://www.linkedin.com/in/viniciusdb8/">LinkedIn</a> • Troque conhecimentos sobre Integração, MuleSoft & Tech comigo!</sub>
 </p>
